@@ -14,3 +14,7 @@
 Если OP уже лежит на кошельках и нужно только делегировать, тогда закомментируй запуск функции uniswap_swap в ```run.py```
 
 Выводить eth в сети optimism советую через binance, там нулевая комиссия. Мой скрипт по выводу с binance есть [здесь](https://github.com/zaivanza/binance-withdraw-ccxt) и [здесь](https://github.com/zaivanza/all-in-one). 
+
+I'm = админ паблика https://t.me/hodlmodeth, отправитель редких гемов в [ chat ] и главный, но не самый умный кодер чата [ code ] . Все вопросы по кодингу туда.
+
+Donate (eth / bsc / arbitrum / op) : ```0xb7415DB78c886c67DBfB25D3Eb7fcd496dAf9021```
