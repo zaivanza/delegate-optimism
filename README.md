@@ -17,4 +17,4 @@
 
 I'm = админ паблика https://t.me/hodlmodeth, отправитель редких гемов в [ chat ] и главный, но не самый умный кодер чата [ code ] . Все вопросы по кодингу туда.
 
-Donate (eth / bsc / arbitrum / op) : ```0xb7415DB78c886c67DBfB25D3Eb7fcd496dAf9021```
+Donate (eth / bsc / arbitrum / op) : 0xb7415DB78c886c67DBfB25D3Eb7fcd496dAf9021
